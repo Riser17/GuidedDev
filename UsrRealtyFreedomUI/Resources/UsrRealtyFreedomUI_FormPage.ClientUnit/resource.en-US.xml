@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Realty (FreedomUI) form page" />
+			<Item Name="LocalizableStrings.addRecord_krfoeih_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_opofbh2_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_zfs0dqk_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Button_slrvqv2_caption.Value" Value="PUSH ME!" />
+			<Item Name="LocalizableStrings.ExpansionPanel_fci42aj_title.Value" Value="Realty visit (FreedomUI)" />
+			<Item Name="LocalizableStrings.ExpansionPanel_lcyosch_title.Value" Value="Realty visit (FreedomUI)" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_rywp7ad_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_sh4ylo9_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_lpxcnra_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_x8szcpo_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_0r0ov8i_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_a2qa2wg_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_h5jrvdm_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_ux81bnz_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_4crhbo8_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_h2ntbrf_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_56008vs_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_ce4bg0n_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.NumberInput_3zau4y8_label.Value" Value="Number" />
+		</Items>
+	</Group>
+</Resources>
