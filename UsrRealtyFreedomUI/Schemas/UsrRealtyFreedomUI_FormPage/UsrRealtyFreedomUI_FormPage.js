@@ -598,6 +598,11 @@ define("UsrRealtyFreedomUI_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, functi
 					"StringAttribute_fx0yw7w": {
 						"modelConfig": {
 							"path": "PDS.UsrComment"
+						},
+						"validators": {
+							"required": {
+								"type": "crt.Required"
+							}
 						}
 					},
 					"LookupAttribute_uo13j3u": {
@@ -744,9 +749,12 @@ var percent = await request.$context.UsrOfferTypeUsrCommissionPercent;
 var commission = price * percent / 100;
 request.$context.NumberAttribute_gr8u8am = commission;
 	if(price >= 50000){
+		request.$context.enableAttributeValidator('StringAttribute_fx0yw7w', 'required');
 		console.log('Val>-50000',price)
+	}else {
+                    request.$context.disableAttributeValidator('StringAttribute_fx0yw7w', 'required');
+    	   }
 	}
-}
 /* Call the next handler if it exists and return its result. */
 return next?.handle(request);
 }
