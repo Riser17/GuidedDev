@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ea7de908-e0fa-4ffc-b4aa-c588abddd1f2",
+    "Name": "UsrCalculateMaximumRealtyPriceProcessUsrRealtyFreedomUI1",
+    "ModifiedOnUtc": "\/Date(1701693069000)\/",
+    "Parent": {
+      "UId": "e1d2394b-c8a7-487a-8f87-5af21efdf0e5",
+      "Name": "UsrCalculateMaximumRealtyPriceProcess"
+    },
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Calculate maximum realty price process",
+    "DependsOn": []
+  }
+}

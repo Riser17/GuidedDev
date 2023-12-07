@@ -2,8 +2,9 @@
   "Descriptor": {
     "UId": "e1d2394b-c8a7-487a-8f87-5af21efdf0e5",
     "Name": "UsrCalculateMaximumRealtyPriceProcess",
-    "ModifiedOnUtc": "\/Date(1701691705000)\/",
+    "ModifiedOnUtc": "\/Date(1701692591000)\/",
     "ManagerName": "ProcessSchemaManager",
-    "Caption": "Calculate maximum realty price process"
+    "Caption": "Calculate maximum realty price process",
+    "DependsOn": []
   }
 }
